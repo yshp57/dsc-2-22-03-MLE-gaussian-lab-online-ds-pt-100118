@@ -1,5 +1,5 @@
 
-# MLE with Normal Distribution - Lab
+# MLE with Normal Distributions - Lab
 
 ## Introduction
 
