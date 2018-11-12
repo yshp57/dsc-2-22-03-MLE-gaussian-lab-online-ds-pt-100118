@@ -1,5 +1,5 @@
 
-# MLE with Normal Distribution - Lab
+# MLE with Normal Distributions - Lab
 
 ## Introduction
 
@@ -49,7 +49,7 @@ param[0], param[1]
 
 
 
-    (0.08241224761452863, 1.002987490235812)
+    (0.08167329184799861, 0.9568910655984155)
 
 
 
